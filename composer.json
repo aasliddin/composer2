@@ -1,0 +1,17 @@
+{
+    "name": "asliddin/composer",
+    "authors": [
+        {
+            "name": "aasliddin",
+            "email": "asliddinayxanov1@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.34"
+    },
+	"autoload": {
+        "psr-4": {
+            "Asliddin\\": "src/"
+        }
+		}
+}
